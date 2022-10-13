@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+        <title>Praktikum 1</title>
+    </head>
+    <body>
+        <h1>Cart</h1>
+        <hr>
+        <table border="2">
+            <tr>
+                <td>
+        <div class="col-25">
+    <div class="container">
+      <h2>Cart<span class="price" style="color:black"><i class="fa fa-checkout succes"></i> <b></b></span></h2>
+      <p><a href="#">Produk 1</a> <span class="price">Rp. 675.000</span></p>
+      <p><a href="#">Produk 2</a> <span class="price">Rp. 150.000</span></p>
+      <p><a href="#">Produk 3</a> <span class="price">Rp. 300.00</span></p>
+      <p><a href="#">Product 4</a> <span class="price">Rp. 375.000</span></p>
+      <hr>
+      <p>Total <span class="price" style="color:black"><b>Rp. 1.500.00</b></span></p>
+                 </td>
+            </tr>
+        </table>
+    </div>
+  </div>
+    </body>
+</html>

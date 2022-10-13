@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+        <title>Praktikum 1</title>
+    </head>
+    <body>
+        <h1>Curriculum Vitae</h1>
+        <hr>
+        <h2>Biodata</h2>
+          <p>Nama : Muhamad Luthfi Ismail</p>
+          <p>Umur : 21 Tahun</p>
+          <p>Alamat : komplek inkopad blok f13/2</p>
+          <p>Nomor Kontak : 08385142032</p>
+        <hr>
+        <h3>Pengalaman Kerja</h3>
+        <ol>
+            <li>Security Bank = 2022-2022</li>
+            <li>Fotografer = 2020-2021</li>
+        </ol>
+        <hr>
+        <h4>Pengalaman Organisasi</h4>
+        <ul>
+            <li>Dewan Kerja Ranting = 2018-2022</li>
+            <li>Remaja Masjid = 2014-2019</li>
+            <li>Majelis Ta'lim Pemuda = 2012 - sekarang</li>
+        </ul>
+    </body>
+</html>
