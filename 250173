@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+        <title>praktikum 4</title>
+    </head>
+    <body>
+        <nav>
+        <a href="index.html">Home</a> |
+        <a href="tugas.pdf">Download CV</a> |
+        <a href="contact.html">Contact</a> |
+        <a href="about.html">About me</a>
+    </nav>
+    <hr>
+   <header style="text-align: center;">
+        <img src="tugas.jpg" width="200" height="200" style="border-radius: 50%;"/>
+        <h1>Muhamad Luthfi Ismail</h1>
+        <p>Umur : 21 Tahun</p>
+        <p>Domisili : Bogor</p>
+    </header>
+    <hr>
+    <article style="text-align: center;">
+        <h2>Profil Saya</h2>
+        <p>
+            Hi, saya adalah web developer yang berdomisisli di Bogor.
+            Saat ini sedang belajar HTML di Universitas STT Terpadu Nurul Fikri
+        </p>
+    </article>
+    <div style="max-width: 600px; margin: 3em auto">
+        <table border="1" width="100%">
+            <thead>
+                <tr>
+                    <th>Skill</th>
+                    <th>Pengalaman</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>
+                        <ul>
+                            <li>Menguasai Microsoft Office</li>
+                            <li>Memahami Teknik Memotret</li>
+                            <li>HTML (Beginner)</li>
+                        </ul>
+                    </td>
+                    <td>
+                        <ul>
+                            <li>Freelancer di Fotografer</li>
+                            <li>Security Bank DKI</li>
+                        </ul>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+    <hr>
+    <footer style="text-align: center;">
+        <p>Copyright &copy; 2022 Muhamad Luthfi Ismail.</p>
+    </footer>
+    </body>
+</html>
