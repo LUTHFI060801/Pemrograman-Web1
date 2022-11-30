@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    text-align: center;
+}
+header, footer {
+    background-color: yellow;
+    height: 15vh;
+    line-height: 15vh;
+    width: 80%;
+    line-height: auto;
+    display: flex;
+    position: relative;
+}
+main {
+    display: flex;
+    height: 70vh;
+    width: 80%;
+    line-height: auto;
+    display: flex;
+    position: relative;
+}
+article {
+    flex: 3;
+    order: 2;
+    width: 80%;
+    line-height: auto;
+    display: flex;
+    position: relative;
+}
+aside {
+    background-color: pink;
+    flex: 1;
+    order: 3;
+    width: 80%;
+    line-height: auto;
+    display: flex;
+    position: relative;
+}
+
+nav {
+    background-color: yellowgreen;
+    flex: 1;
+    order: 1;
+    width: 1000%;
+    line-height: 100%;
+    display: flex;
+    position: relative;
+}
