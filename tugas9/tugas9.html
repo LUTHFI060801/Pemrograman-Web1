@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tugas 9</title>
+</head>
+<body>
+    <h2>Menghitung Jumlah Dua Bilangan</h2>
+
+    <h4>Nilai Dua Bilangan</h4>
+    <label for="bilangan">Bilangan =</label>
+    <input type="number" id="bilangan">
+    <br>
+    <span id="hasil"></span>
+    <br>
+    <button type="button" onclick="hitung_bilangan()">Hitung</button>
+
+    <script>
+        function hitung_bilangan(){
+            let rp = 14650;
+            let d = document.getElementById("bilangan").value;
+            let h = d*rp;
+            document.getElementById("hasil").innerHTML = "Hasil" + h;
+        }
+    </script>
+</body>
+</html>
